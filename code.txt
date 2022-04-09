@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	//variables
+	
+
+	//input
+	
+
+	//calculation
+	
+
+	//result
+	
+
+	return 0;
+}
